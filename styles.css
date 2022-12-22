@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+
+.r1c1, .r2c1, .r3c1 {
+    height: 200px;
+    /* color: red; */
+}
